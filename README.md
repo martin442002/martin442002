@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martin442002, an engineering and music student at university!
+- 👋 Hi, I’m @martinqiang, an engineering and music student at university!
 - 👀 I’m interested in solving problems, programming, game dev, music and many other things!
 - 🌱 I’m currently learning how to code a 2D game from scratch in Java.
 - 📫 How to reach me: martinqiang@me.com

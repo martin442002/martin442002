@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @martinqiang, an engineering and music student at the University of Auckland!
+- 👋 Hi, I’m @martinqiang, a computer engineering student at the University of Auckland!
 - 👀 I’m interested in solving problems, programming, game dev, music and many other things!
-- 🌱 I’m currently learning how to code a 2D game from scratch in Java.
+- 🌱 I’m currently learning how to code a 2D game from scratch in C.
 - 📫 How to reach me: martinqiang@me.com
 
 <!---

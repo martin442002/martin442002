@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @martinqiang, a computer engineering student at the University of Auckland!
-- 👀 I’m interested in solving problems, programming, game dev, music and many other things!
-- 🌱 I’m currently learning how to code a 2D game from scratch in C.
+- 👋 Hi, I’m @martinqiang, a computer engineering graduate from the University of Auckland!
+- 💼 I'm currently working as an R&D engineer at Intdevice, developing FPGA and hardware designs for wireless charging!
+- 👀 I’m interested in solving problems, programming, tinkering with hardware, game dev, music and many other things!
 - 📫 How to reach me: martinqiang@me.com
 
 <!---
